@@ -35,7 +35,7 @@ int QuickSort(int a[],int lf,int rt)
 int main()
 {
 	int i;
-	int a[16];
+	int a[N];
 	for(i = 0;i < N;i++){
 		a[i] = rand()%100;
 	}
