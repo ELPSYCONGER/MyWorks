@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#define N 10
+#define N 16
 
 int QuickSort(int a[],int lf,int rt)
 {
